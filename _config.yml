@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://jaume-av.github.io/CODI/
 
 aux_links:
-  "Accés a Aules":
+  "Accés a Programa CODI":
     - https://www.formacioncodi.gob.es/login/index.php
 
 search_enabled: true
