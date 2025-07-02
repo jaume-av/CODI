@@ -9,6 +9,8 @@ nav_order: 10
 
 # Classe `File` – Gestió de Fitxers a Java
 
-En aquest document aprendràs a utilitzar la classe **`File`** de Java, que permet gestionar rutes i fitxers de manera independent del sistema operatiu.
+https://www.youtube.com/watch?v=1IwPb1_vFOY
 
-j
+
+https://www.youtube.com/watch?v=qeJbj0mprTQ
+
