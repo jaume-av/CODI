@@ -40,3 +40,6 @@ Llegiu cada situació en grup o parella. Debatiu les opcions possibles i escrivi
 ## Activitat final
 
 Trieu una de les situacions i representeu-la amb una *mini-escena teatral* o una *vinyeta còmica* per compartir amb la resta de la classe.
+
+
+[Descarrega la fitxa Que faries si...](QueFariesSi.odt)
