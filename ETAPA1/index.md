@@ -8,9 +8,9 @@ has_toc: true
 ---
 
 
-# Streams
+# ETAPA 1 - 
 {: .text-center }
-![alt text](../assets/imatges/javaStreams.png)
+[alt text](../assets/imatges/javaStreams.png)
 
 ## Taula de Continguts
 {:toc}
