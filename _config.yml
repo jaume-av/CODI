@@ -10,14 +10,14 @@ aux_links:
 
 search_enabled: true
 
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"
+
+
 footer:
-  copyright: "© 2024 Gómez - Aragó"
+  copyright: "© 2025 Gómez - Aragó"
   links:
     - title: "Llicència CC BY-SA 4.0"
       url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
-# Navegació directa sense desplegables
-collections:
-  docs:
-    output: true
-    permalink: /:path/
