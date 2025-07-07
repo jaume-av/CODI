@@ -36,3 +36,16 @@ nav_order: 10
 
 ---
 
+
+
+### Reflexiona
+
+Per grups, ompliu la fitxa següent:
+
+
+[Descarrega la fitxa Reflexiona...](Reflexiona.odt)
+
+
+### Activitat Final
+
+Despres de les activitats anteriors, crea un nuvol de paraules:
