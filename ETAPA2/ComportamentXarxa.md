@@ -36,6 +36,18 @@ nav_order: 10
 
 ---
 
+## Adictes als likes
+
+<a href="https://www.youtube.com/watch?v=q2yREpiWlDE" target="_blank">
+  <img src="https://img.youtube.com/vi/q2yREpiWlDE/hqdefault.jpg" width="300"/>
+</a>
+
+---
+
+
+
+
+
 ## Activitat Final
 
 Anem a crear un nuvol de paraules similar a este:
