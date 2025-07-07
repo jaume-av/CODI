@@ -36,16 +36,30 @@ nav_order: 10
 
 ---
 
+## Activitat Final
+
+Anem a crear un nuvol de paraules similar a este:
+
+![alt text](imatges/nuvol.png)
+
 
 
 ### Reflexiona
 
-Per grups, ompliu la fitxa següent:
+Per tal de crear el nuvol, primer omplirem la fitza següent per parelles:
 
 
 [Descarrega la fitxa Reflexiona...](Reflexiona.odt)
 
 
-### Activitat Final
+### Creació deñ nuvol de paraules:
 
-Despres de les activitats anteriors, crea un nuvol de paraules:
+Una volta treballada la informació, heu de crear un nuvol de paraules amb alguna de les següents eines:
+
+
+<a href="https://wordart.com/" target="_blank">WordArt</a><br>
+<a href="https://www.mentimeter.com/es-ES" target="_blank">Mentimeter</a><br>
+<a href="http://www.tagxedo.com/" target="_blank">Tagxedo</a><br>
+<a href="https://worditout.com/" target="_blank">WordItOut</a><br>
+
+
