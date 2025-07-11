@@ -216,7 +216,7 @@ Fes egosurfing ara mateix: obri Google o qualsevol cercador i escriu el teu nom 
 Després, ves al següent enllaç i explora les opcions de privacitat que ofereix:
 
 <p>
-  <a href="https://www.incibe.es/menores/ciudadania-digital/egosurfing" target="_blank" class="btn btn-primary">
+  <a href="https://www.incibe.es/ciudadania/blog/egosurfing-que-informacion-hay-sobre-mi-en-internet" target="_blank" class="btn btn-primary">
     Descobreix més sobre l'egosurfing a INCIBE
   </a>
 </p>
