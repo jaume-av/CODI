@@ -1,0 +1,120 @@
+// 🅰️ Tipografia base
+body {
+  font-family: 'Calibri', sans-serif;
+  font-size: 14px;
+  line-height: 1.8;
+  color: #000000;
+  margin: 0;
+}
+
+// 🟩 Estils per als títols
+h1 {
+  color: #12450b;
+  background-color: #e6f5e6;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Calibri', sans-serif;
+}
+
+h2 {
+  color: #12450b;
+  background-color: #e6f5e6;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  font-family: 'Calibri', sans-serif;
+}
+
+h3, h4, h5, h6 {
+  color: #12450b;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  border-radius: 0;
+  background-color: transparent;
+  font-family: 'Calibri', sans-serif;
+}
+
+h3 {
+  border-bottom: 1px solid #12450b;
+}
+
+// 🧾 Codi dins títols
+h1 code, h2 code {
+  background-color: #d0e6f7;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  letter-spacing: inherit;
+  padding: 0.1em 0.2em;
+  border-radius: 0.2em;
+  border: none;
+  white-space: normal;
+}
+
+// 🧱 Layout
+.main-content {
+  margin-left: 0;
+  padding: 20px;
+  max-width: 100%;
+}
+
+@media (min-width: 768px) {
+  .main-content {
+    max-width: 100%;
+  }
+
+  .sidebar {
+    width: 170px;
+  }
+}
+
+// 📚 Sidebar i navegació
+.sidebar {
+  background-color: #e6f5e6;
+  padding: 10px;
+  width: 170px;
+}
+
+.nav-list a {
+  font-family: 'Calibri', sans-serif;
+  color: #12450b;
+}
+
+.nav-list a:hover {
+  color: #2da41e;
+}
+
+.navbar-brand {
+  font-size: 16px;
+  color: #12450b;
+}
+
+// 💻 Estil per a codi
+pre, code {
+  font-family: 'Consolas', monospace;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #f5f5f5;
+  color: #000000;
+  padding: 15px;
+  line-height: 1.6;
+  border: none;
+  border-radius: 0;
+  margin: 10px 0;
+  white-space: pre-wrap;
+  overflow-x: auto;
+  box-shadow: none;
+}
+
+code {
+  background-color: #f5f5f5;
+  padding: 3px 5px;
+  border-radius: 3px;
+  font-size: 13px;
+}
