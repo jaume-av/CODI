@@ -15,12 +15,6 @@ just_the_docs:
     - "assets/css/custom.css"
 
 
-color_scheme: verd
-
-sass:
-  style: compressed
-
-
 footer:
   copyright: "© 2025 Gómez - Aragó"
   links:
