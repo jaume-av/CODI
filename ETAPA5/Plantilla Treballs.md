@@ -1,101 +1,48 @@
 
 
 
-### 🧑‍⚕️ 1. **Médico/a** (Convencional)
 
-**Herramientas digitales:**
 
-* Historias clínicas electrónicas (HCE)
-* Plataformas de telemedicina (como Zoom o Doctoralia)
-* Software de diagnóstico por imagen
 
-**Competencias digitales:**
 
-* Búsqueda y gestión de información médica
-* Comunicación digital con pacientes y equipos
-* Uso ético y seguro de datos personales (protección de datos)
 
----
 
-### 💻 2. **Desarrollador/a de software** (Emergente pero ya consolidada)
 
-**Herramientas digitales:**
 
-* Editores de código (VS Code, Sublime Text)
-* Plataformas de trabajo colaborativo (GitHub, GitLab)
-* Herramientas de testing y depuración
 
-**Competencias digitales:**
 
-* Pensamiento computacional y resolución de problemas
-* Programación
-* Trabajo colaborativo en línea
 
----
+M2: Padlet Professions - CDigital. FICHA plantilla
 
-### 🛠️ 3. **Carpintero/a** (Convencional)
 
-**Herramientas digitales:**
 
-* Aplicaciones de diseño 3D (SketchUp, AutoCAD básico)
-* Videos tutoriales (YouTube, foros especializados)
-* Catálogos digitales de materiales
 
-**Competencias digitales:**
 
-* Uso básico de software de diseño
-* Búsqueda de recursos y aprendizaje en línea
-* Comunicación con clientes por medios digitales
 
----
+M3: Plantilla Dafo -canva
 
-### 🎮 4. **Diseñador/a de videojuegos** (Emergente)
 
-**Herramientas digitales:**
 
-* Motores de desarrollo (Unity, Unreal Engine)
-* Software de diseño gráfico (Photoshop, Blender)
-* Plataformas de colaboración (Discord, Trello)
 
-**Competencias digitales:**
 
-* Creatividad digital
-* Programación básica
-* Diseño de experiencia de usuario
 
----
+https://factorial.es/blog/trabajos-mas-demandados/
 
-### 🌱 5. **Agricultor/a de precisión** (Emergente)
 
-**Herramientas digitales:**
 
-* Drones para monitoreo de cultivos
-* Sensores IoT en el campo
-* Aplicaciones para gestión de riego y fertilización
 
-**Competencias digitales:**
 
-* Interpretación de datos
-* Manejo de apps especializadas
-* Toma de decisiones basada en tecnología
+Estadisticas
+Videos
+*Ciclos FP* en githup gerard
 
----
+M5: BUSQUEDA DE EMPLEO (calendario)
+M4: Entrevista per parelles competencies digitals   - ROLE PLAY
 
-### 📱 6. **Community Manager** (Emergente)
 
-**Herramientas digitales:**
 
-* Redes sociales (Instagram, TikTok, X/Twitter)
-* Herramientas de programación de contenido (Hootsuite, Buffer)
-* Analítica web (Google Analytics, Meta Business Suite)
 
-**Competencias digitales:**
 
-* Comunicación digital efectiva
-* Creación de contenido multimedia
-* Análisis de métricas
-
----
 
 
 
