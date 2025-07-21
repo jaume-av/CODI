@@ -1,0 +1,139 @@
+
+
+
+# **SOLUCIONARI**
+
+---
+
+## **1. Competències clau per a cada lloc de treball**
+
+### **Community Manager**
+
+* Creativitat en la generació de continguts.
+* Comunicació digital (gestionar comentaris, interactuar amb el públic).
+* Coneixement de plataformes (Instagram, TikTok, X/Twitter, Facebook).
+* Seguretat i privacitat en xarxes socials.
+* Planificació i gestió d’horaris de publicació.
+* Coneixement d’eines com Hootsuite o Buffer per programar contingut.
+* Anàlisi de dades i mètriques (Google Analytics, Meta Business Suite).
+
+---
+
+### **Creador/a de Contingut per a YouTube/TikTok**
+
+* Edició de vídeo (CapCut, Canva, Premiere).
+* Creativitat per idear continguts nous.
+* Storytelling (narrar històries que connecten).
+* Coneixement de tendències i algoritmes de xarxes.
+* Disseny gràfic bàsic per miniatures o imatges.
+* Capacitat de planificar calendaris de publicació.
+* Coneixements de música lliure de drets i efectes sonors.
+
+---
+
+### **Dissenyador/a de Webs i Blogs**
+
+* Disseny web (WordPress, Wix, Shopify).
+* Estructura i usabilitat (UX/UI).
+* Escriptura atractiva i SEO (posicionament en buscadors).
+* Coneixements bàsics d’HTML i CSS.
+* Seguretat bàsica (copiar webs, evitar vulnerabilitats).
+* Edició d’imatges per webs (Photoshop, Canva).
+* Capacitat de crear plantilles i dissenys responsius (adaptables a mòbils).
+
+---
+
+### **Editor/a de Vídeo i Imatge**
+
+* Ús d’eines com Premiere, CapCut, Canva, Photoshop.
+* Creativitat visual i sentit estètic.
+* Coneixement de formats de vídeo i imatge.
+* Disseny de presentacions visuals atractives.
+* Capacitat de combinar música, efectes i imatge de forma harmònica.
+* Innovació en campanyes visuals i idees de disseny.
+
+---
+
+### **Tester de Videojocs**
+
+* Capacitat d’observació i paciència.
+* Coneixements bàsics de programació i jocs.
+* Atenció al detall per detectar errors.
+* Comunicació clara per descriure problemes.
+* Coneixement de diferents gèneres de videojocs.
+* Pensament crític per suggerir millores en jugabilitat i disseny.
+
+---
+
+### **Suport Tècnic Digital**
+
+* Resolució de problemes informàtics.
+* Coneixement de sistemes operatius i aplicacions bàsiques.
+* Paciència i empatia amb els usuaris.
+* Capacitat de buscar informació fiable i solucions ràpides.
+* Coneixements bàsics de seguretat (virus, malware, còpies de seguretat).
+* Comunicació clara per explicar processos pas a pas.
+* Capacitat per treballar amb eines de suport remot.
+
+---
+
+## **2. Competències digitals de cada candidat**
+
+### **Paula (15 anys)**
+
+**Competències:**
+
+* Edició de vídeos amb CapCut i Canva.
+* Creació de contingut visual creatiu.
+* Capacitat d’experimentar amb idees noves.
+* Adaptabilitat a noves eines digitals.
+  **Aspectes a millorar:**
+* Coneixements de seguretat i privacitat en xarxes.
+* Habilitats de planificació i organització.
+
+---
+
+### **David (14 anys)**
+
+**Competències:**
+
+* Creació de contingut viral i coneixement d’algoritmes de TikTok.
+* Gran creativitat i capacitat d’atraure públic.
+* Ús bàsic d’edició per a vídeos curts.
+  **Aspectes a millorar:**
+* Consciència sobre privacitat i seguretat en xarxes.
+* Treball en equip i gestió d’idees amb altres.
+* Cerca d’informació fiable i contrastada.
+
+---
+
+### **Aina (15 anys)**
+
+**Competències:**
+
+* Creació i disseny de blogs amb WordPress.
+* Escriptura de contingut i storytelling.
+* Seguretat bàsica en webs i informació.
+* Responsabilitat i pensament crític.
+  **Aspectes a millorar:**
+* Edició visual i audiovisual.
+* Capacitat de seguir tendències digitals ràpides.
+* Coneixement d’eines de xarxes socials.
+
+---
+
+### **Marc (14 anys)**
+
+**Competències:**
+
+* Programació bàsica i creació de projectes amb Scratch.
+* Capacitat d’anàlisi i prova de videojocs.
+* Curiositat i aprenentatge ràpid de noves tecnologies.
+  **Aspectes a millorar:**
+* Comunicació i explicació clara d’idees.
+* Coneixements de disseny visual.
+* Ús de xarxes socials i creació de continguts.
+
+---
+
+
